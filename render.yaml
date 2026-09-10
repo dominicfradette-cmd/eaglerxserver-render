@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: eaglercraft-survival-free
+    name: eaglercraft-survival-freehttps://github.com/dominicfradette-cmd/eaglerxserver-render/security
     runtime: docker
     plan: free
     dockerfilePath: ./Dockerfile
